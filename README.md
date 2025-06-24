@@ -150,4 +150,6 @@ I also built a simple interface using Python’s Tkinter and a command-line vers
 
 The Text Summarization Tool project gave me real-world experience working with textual data, building intelligent NLP pipelines, and applying cutting-edge models like BART and T5. This tool has practical applications in journalism, education, research, and more. In the future, I plan to deploy it as a web app with support for multiple languages and file types (PDF, DOCX, etc.).
 
----
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/76651845-efa4-45ce-bddf-da97dfd44323)
